@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/blogs.js"],"names":["Blogs"],"mappings":"2FAAA,gCAOeA,UAJD,WACZ,OAAO","file":"component---src-pages-blogs-js-f13cab2eb645da249508.js","sourcesContent":["// Gatsby supports TypeScript natively!\nimport React from \"react\";\n\nconst Blogs = () => {\n  return <div>blogs</div>;\n};\n\nexport default Blogs;\n"],"sourceRoot":""}
